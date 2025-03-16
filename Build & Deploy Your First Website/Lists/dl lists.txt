@@ -1,0 +1,8 @@
+Description lists: <dl>
+
+Example:
+        <dl>
+            <dt>Unicorn</dt>
+            <dd>A mythical, horse-like animal with a single horn.</dd>
+            <dd>Something which is desirable but difficult to obtain.</dd>
+        </dl>
